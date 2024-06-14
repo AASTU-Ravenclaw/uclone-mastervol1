@@ -109,12 +109,7 @@ We welcome contributions! Please follow these steps to contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to customize this template based on the specifics of your project.
